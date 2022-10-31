@@ -30,7 +30,7 @@
  * @constructs Matrix4
  * @param {Array<Number>} opt_src source matrix (optional).
  */
-var Matrix4 = function (opt_src) {
+ var Matrix4 = function (opt_src) {
     var i, s, d;
     if (
         opt_src &&
